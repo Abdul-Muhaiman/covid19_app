@@ -1,16 +1,10 @@
 # covid_19_app
 
-A new Flutter project.
+# COVID19_app
 
-## Getting Started
+**`Intro:`**
+This app is being created with flutter framework, it consists of data of Covid-19 disease like how many people were killed by this disease and what were the total number of cases registered. etc.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**`Working:`**
+THis app is working on a free API, it fetches data from this API through **HTTP GET** request and this make a list of this data and displays it on using **ListView.builder**, it is a widget that is used in flutter to build lists and display them on screen.
+Using this app one can find out how many people where affected through-out the globe.
